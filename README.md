@@ -12,3 +12,8 @@ contract work with an Ecommerce company based in New York City that sells clothi
 
 I have worked with a fake advertising data set,indicating whether or not a particular internet user will click on an advertisement based on the features of that user.
 
+
+# Decision Tree and Random Forest_LandingClub:
+
+Lending Club connects borrowers with investors. As an investor we want to invest in people who showed a profile of having a high probability of paying you back. I will try to create a model that will help predict this. I will use lending Club data from 2007-2010 before they went public and try to classify and predict whether or not the borrower paid back their loan in full.
+
